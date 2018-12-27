@@ -1,1 +1,1 @@
-{<?ph a bot"
+<?phpecho "I am a bot";
